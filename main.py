@@ -151,3 +151,4 @@ while not game_over:
     print("is equal x", current_node.robber[1] == new_robber[1])
     print("turn", current_node.turn)
     my_graph.print_grid(current_node, BOARD_SIZE)
+    ######

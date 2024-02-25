@@ -37,8 +37,7 @@ class Board:
     #       if self.grid[i][j] == 'R':
     #         return [i, j]
     #   return None
-        #aaa
-        #bbb
+    
     
 
         
